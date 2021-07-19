@@ -26,7 +26,4 @@ class Circle {
     set area(value) {
         this.radius = Math.sqrt(value/Math.PI)
     }
-
-
-
 }
